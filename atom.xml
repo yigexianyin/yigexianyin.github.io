@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yigexianyin.github.io/"/>
   <updated>2020-01-13T10:12:05.847Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yigexianyin.github.io/</id>
   
   <author>
     <name>PENGFEI</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/13/hello-world/"/>
-    <id>http://yoursite.com/2020/01/13/hello-world/</id>
+    <link href="http://yigexianyin.github.io/2020/01/13/hello-world/"/>
+    <id>http://yigexianyin.github.io/2020/01/13/hello-world/</id>
     <published>2020-01-13T10:12:05.847Z</published>
     <updated>2020-01-13T10:12:05.847Z</updated>
     
@@ -35,19 +35,19 @@
     </summary>
     
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
     
   </entry>
   
   <entry>
     <title>Hello</title>
-    <link href="http://yoursite.com/2020/01/13/hello/"/>
-    <id>http://yoursite.com/2020/01/13/hello/</id>
+    <link href="http://yigexianyin.github.io/2020/01/13/hello/"/>
+    <id>http://yigexianyin.github.io/2020/01/13/hello/</id>
     <published>2020-01-13T10:12:05.517Z</published>
     <updated>2020-01-13T10:12:05.518Z</updated>
     
@@ -63,19 +63,19 @@
     </summary>
     
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
     
   </entry>
   
   <entry>
     <title>World</title>
-    <link href="http://yoursite.com/2020/01/13/world/"/>
-    <id>http://yoursite.com/2020/01/13/world/</id>
+    <link href="http://yigexianyin.github.io/2020/01/13/world/"/>
+    <id>http://yigexianyin.github.io/2020/01/13/world/</id>
     <published>2020-01-13T10:12:05.410Z</published>
     <updated>2020-01-13T10:12:05.410Z</updated>
     
@@ -91,12 +91,12 @@
     </summary>
     
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
     
   </entry>
   
