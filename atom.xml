@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yigexianyin.github.io/"/>
-  <updated>2020-01-13T10:12:05.847Z</updated>
+  <updated>2020-01-17T04:26:08.568Z</updated>
   <id>http://yigexianyin.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>World</title>
+    <link href="http://yigexianyin.github.io/2020/01/17/world/"/>
+    <id>http://yigexianyin.github.io/2020/01/17/world/</id>
+    <published>2020-01-17T04:26:08.567Z</published>
+    <updated>2020-01-17T04:26:08.568Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -45,58 +73,31 @@
   </entry>
   
   <entry>
-    <title>Hello</title>
-    <link href="http://yigexianyin.github.io/2020/01/13/hello/"/>
-    <id>http://yigexianyin.github.io/2020/01/13/hello/</id>
-    <published>2020-01-13T10:12:05.517Z</published>
-    <updated>2020-01-13T10:12:05.518Z</updated>
+    <title>Blog 字典</title>
+    <link href="http://yigexianyin.github.io/2019/01/17/blog_dictionary/"/>
+    <id>http://yigexianyin.github.io/2019/01/17/blog_dictionary/</id>
+    <published>2019-01-17T04:00:00.000Z</published>
+    <updated>2020-01-17T04:29:17.518Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
-    
-    
-      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>World</title>
-    <link href="http://yigexianyin.github.io/2020/01/13/world/"/>
-    <id>http://yigexianyin.github.io/2020/01/13/world/</id>
-    <published>2020-01-13T10:12:05.410Z</published>
-    <updated>2020-01-13T10:12:05.410Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h4 id="Blog-标题和源文件命名映射"><a href="#Blog-标题和源文件命名映射" class="headerlink" title="Blog 标题和源文件命名映射"></a>Blog 标题和源文件命名映射</h4><table><thead><tr><th align="center">标题</th><th align="center">源文件名</th></tr></thead><tbody><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr><tr><td align="center">散列表分析</td><td align="center">hashtable_analysis</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h4 id=&quot;Blog-标题和源文件命名映射&quot;&gt;&lt;a href=&quot;#Blog-标题和源文件命名映射&quot; class=&quot;headerlink&quot; title=&quot;Blog 标题和源文件命名映射&quot;&gt;&lt;/a&gt;Blog 标题和源文件命名映射&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+
       
     
     </summary>
     
     
-      <category term="Testing" scheme="http://yigexianyin.github.io/categories/Testing/"/>
+      <category term="工具项" scheme="http://yigexianyin.github.io/categories/%E5%B7%A5%E5%85%B7%E9%A1%B9/"/>
     
     
-      <category term="Testing" scheme="http://yigexianyin.github.io/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://yigexianyin.github.io/tags/Another-Tag/"/>
+      <category term="字典" scheme="http://yigexianyin.github.io/tags/%E5%AD%97%E5%85%B8/"/>
     
   </entry>
   
